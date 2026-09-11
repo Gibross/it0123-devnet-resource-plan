@@ -1,0 +1,39 @@
+{
+  "student_name": "NATHAN LEI C. SANTOS",
+  "section": "TS31",
+  "ai_tool": "Gemini",
+  "entries": [
+    {
+      "use_case_id": "UC1",
+      "selected_resource_type": "always-on-sandbox",
+      "official_evidence_url": "https://developer.cisco.com/site/sandbox/",
+      "ai_recommendation_summary": "The AI recommended the always-on sandbox for quick access.",
+      "verification_status": "verified",
+      "rationale": "This resource is ideal because the scenario requires immediate read-only access without any waiting for provisioning."
+    },
+    {
+      "use_case_id": "UC2",
+      "selected_resource_type": "reservation-sandbox",
+      "official_evidence_url": "https://developer.cisco.com/site/sandbox/",
+      "ai_recommendation_summary": "The AI suggested the reservation sandbox for private testing.",
+      "verification_status": "verified",
+      "rationale": "This resource fits perfectly since the development team requires private administrative access and can accept setup time."
+    },
+    {
+      "use_case_id": "UC3",
+      "selected_resource_type": "learning-lab",
+      "official_evidence_url": "https://developer.cisco.com/learning/labs",
+      "ai_recommendation_summary": "The AI proposed learning labs for guided educational content.",
+      "verification_status": "verified",
+      "rationale": "A beginner requires structured, step-by-step guidance to grasp concepts before attempting independent and unguided API activities."
+    },
+    {
+      "use_case_id": "UC4",
+      "selected_resource_type": "code-exchange",
+      "official_evidence_url": "https://developer.cisco.com/codeexchange/",
+      "ai_recommendation_summary": "The AI recommended code exchange to find reusable scripts.",
+      "verification_status": "verified",
+      "rationale": "This platform allows developers to search for and examine existing automation code repositories to guide new solutions."
+    }
+  ]
+}
